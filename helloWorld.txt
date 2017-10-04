@@ -1,4 +1,13 @@
 thisi  is a test TXT file for my first Repo
 
 
-first brench has been created 
+first brench has been created
+
+
+Github上的watch、star和fork分别是什么意思呢？
+
+1、watch可以用来设置接收邮件提醒
+
+2、如果想持续关注该项目就star一下
+
+3、如果想将项目拷贝一份到自己的账号下就fork
